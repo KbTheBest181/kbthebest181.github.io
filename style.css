@@ -25,6 +25,12 @@ h1 {
 	margin-bottom: 30px;
 }
 
+p {
+	font-family: 'Dancing Script', cursive;
+	margin-bottom: 30px;
+	font-size: 20px;
+}
+
 button {
 	border: none;
 	outline: none;
