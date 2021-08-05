@@ -364,37 +364,37 @@ body {
 
 @keyframes counter {
   0% {
-    counter-increment: count 0;
+    counter-increment: count 10;
   }
   10% {
-    counter-increment: count 1;
+    counter-increment: count 9;
   }
   20% {
-    counter-increment: count 2;
+    counter-increment: count 8;
   }
   30% {
-    counter-increment: count 3;
+    counter-increment: count 7;
   }
   40% {
-    counter-increment: count 4;
+    counter-increment: count 6;
   }
   50% {
     counter-increment: count 5;
   }
   60% {
-    counter-increment: count 6;
+    counter-increment: count 4;
   }
   70% {
-    counter-increment: count 7;
+    counter-increment: count 3;
   }
   80% {
-    counter-increment: count 8;
+    counter-increment: count 2;
   }
   90% {
-    counter-increment: count 9;
+    counter-increment: count 1;
   }
   100% {
-    counter-increment: count 10;
+    counter-increment: count 0;
   }
 }
 /* End counter */
